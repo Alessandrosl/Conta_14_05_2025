@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|c:\\users\\2021202060039\\source\\repos\\conta_14_05_2025\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|c:\\users\\2021202060039\\source\\repos\\conta_14_05_2025\\conta_empresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\conta_empresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:conta_empresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|c:\\users\\2021202060039\\source\\repos\\conta_14_05_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|c:\\users\\2021202060039\\source\\repos\\conta_14_05_2025\\conta_estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\conta_estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:conta_estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Conta_Empresarial.cs",
               "DocumentMoniker": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Conta_Empresarial.cs",
               "RelativeDocumentMoniker": "Conta_Empresarial.cs",
@@ -42,8 +42,7 @@
               "RelativeToolTip": "Conta_Empresarial.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T00:56:49.035Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T00:56:49.035Z"
             },
             {
               "$type": "Document",
@@ -55,12 +54,11 @@
               "RelativeToolTip": "Conta_Estudante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T00:56:16.662Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T00:56:16.662Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Conta.cs",
               "DocumentMoniker": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Conta.cs",
               "RelativeDocumentMoniker": "Conta.cs",
@@ -73,13 +71,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-15T00:52:11.85Z",
               "EditorCaption": ""
