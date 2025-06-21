@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\",
+  "WorkspaceRootPath": "C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Conta_Empresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:Conta_Empresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Conta_Estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:Conta_Estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|c:\\users\\alessandro\\source\\repos\\alessandrosl\\conta_14_05_2025\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|c:\\users\\2021202060039\\source\\repos\\conta_14_05_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\conta_estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:conta_estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\conta_empresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:conta_empresarial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C7B47FD-2885-4E4C-BBCD-7B11C69CB0B8}|Conta_14_05_2025.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,11 +34,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Conta_Empresarial.cs",
-              "DocumentMoniker": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Conta_Empresarial.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Conta_Empresarial.cs",
               "RelativeDocumentMoniker": "Conta_Empresarial.cs",
-              "ToolTip": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Conta_Empresarial.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Conta_Empresarial.cs",
               "RelativeToolTip": "Conta_Empresarial.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -47,11 +47,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Conta_Estudante.cs",
-              "DocumentMoniker": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Conta_Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Conta_Estudante.cs",
               "RelativeDocumentMoniker": "Conta_Estudante.cs",
-              "ToolTip": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Conta_Estudante.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Conta_Estudante.cs",
               "RelativeToolTip": "Conta_Estudante.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -60,11 +60,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Conta.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Conta.cs",
               "RelativeDocumentMoniker": "Conta.cs",
-              "ToolTip": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Conta.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Conta.cs",
               "RelativeToolTip": "Conta.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,16 +73,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\2021202060039\\source\\repos\\Conta_14_05_2025\\Program.cs",
+              "ToolTip": "C:\\Users\\Alessandro\\source\\repos\\Alessandrosl\\Conta_14_05_2025\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T00:52:11.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-15T00:52:11.85Z"
             }
           ]
         }

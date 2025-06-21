@@ -1,2 +1,4 @@
 C:\Users\2021202060039\source\repos\Conta_14_05_2025\obj\Debug\Conta_14_05_2025.csproj.AssemblyReference.cache
 C:\Users\2021202060039\source\repos\Conta_14_05_2025\obj\Debug\Conta_14_05_2025.csproj.CoreCompileInputs.cache
+C:\Users\Alessandro\source\repos\Alessandrosl\Conta_14_05_2025\obj\Debug\Conta_14_05_2025.csproj.AssemblyReference.cache
+C:\Users\Alessandro\source\repos\Alessandrosl\Conta_14_05_2025\obj\Debug\Conta_14_05_2025.csproj.CoreCompileInputs.cache
